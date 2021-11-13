@@ -9,7 +9,9 @@
 
 <html>
 <head>
-<style>
+   <meta charset="utf-8">
+  <title>readme</title>
+  <style>
    .thumb img  {
     margin-right: 10px;
     margin-bottom: 10px;
