@@ -6,4 +6,4 @@
 
 ### Skills
 
-[<img align="left" alt="Java" width="26px" src="https://codebrainiac.com/wp-content/uploads/2020/11/java.png"|/>]
+![alt tag](https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/1200px-Java_logo.svg.png)
