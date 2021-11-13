@@ -6,14 +6,6 @@
 
 ### Skills
 
-
-
-
-
-
-
-
-<!DOCTYPE html>
 <html>
 <head>
 </head>
