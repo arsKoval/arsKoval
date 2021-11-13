@@ -15,7 +15,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/1200px-Java_logo.svg.png" width="50px" height="80px"></img>
 </span>
 
-<span>
+<span style="margin-left: 25px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/220px-Spring_Framework_Logo_2018.svg.png" width="250px" height="80px"  margin-left="25px" markdown="1" ></img>
 </span>
 
