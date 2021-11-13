@@ -6,4 +6,12 @@
 
 ### Skills
 
-![alt tag](https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/1200px-Java_logo.svg.png)
+
+<html>
+<head>
+
+</head>
+<body>
+    <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/1200px-Java_logo.svg.png" width="26px" height="26px"></img>
+</body>
+</html>
