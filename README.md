@@ -6,6 +6,18 @@
 
 ### Skills
 
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/1200px-Java_logo.svg.png" width="50px" height="60px"></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,4 +38,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/440px-Postgresql_elephant.svg.png" width="50px" height="40px" margin-left="25px"></img>
-</p>        
+</p>
+</body>
+</html>
