@@ -16,6 +16,8 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/220px-Spring_Framework_Logo_2018.svg.png" width="100px" height="50px"  margin-left="25px" markdown="1" ></img>
 
+![myimg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/220px-Spring_Framework_Logo_2018.svg.png){: height="75px" width="300px" style="float:left; padding-right:10px" }
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/250px-Hibernate_logo_a.png" width="100px" height="50px"  margin-left="25px"></img>
 <br>
 <br>
