@@ -36,7 +36,6 @@
 ### You can contact me:
 
 <p>
-
 [<img alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45px" height="40px"/>][linkedin]
 &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -44,5 +43,4 @@
 
 [linkedin]: https://by.linkedin.com/in/arseni-kovalev-73346a226
 [gmail]: mailto:arseni.kovalev@gmail.com
-
 </p>
