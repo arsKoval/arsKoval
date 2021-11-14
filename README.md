@@ -28,4 +28,4 @@
 </body>
 </html>
 
-![Alt Text](https://vk.com/doc180670769_623958122?hash=3312bbb371e5176f09&dl=412096ef8b269d24df.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
