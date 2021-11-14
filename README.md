@@ -3,7 +3,6 @@
 ### I'm a beginner Java Developer and Student of GRSU
 
 <br/>
-<br/>
 
 ## Skills and tools
 
