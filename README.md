@@ -29,6 +29,7 @@
     <br/>
     <br/>
     <br/>
+    [<img alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45px" height="40px"/>]
 </p>
 </body>
 </html>
