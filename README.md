@@ -1,9 +1,9 @@
-## Hello, I'm Arseni Kovalev
+### Hello, I'm Arseni Kovalev
 
 ### I'm a beginner Java Developer and Student of GRSU
 
 
-### Skills and tools
+## Skills and tools
 
 <html>
 <head>
