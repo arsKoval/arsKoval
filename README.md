@@ -44,5 +44,4 @@
 
 [linkedin]: https://by.linkedin.com/in/arseni-kovalev-73346a226
 [gmail]: mailto:arseni.kovalev@gmail.com
-
 </p>
