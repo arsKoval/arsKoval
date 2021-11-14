@@ -36,7 +36,8 @@
 ### You can contact me:
 
 <p>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45px" height="40px"></img> [linkedin]
+
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45px" height="40px"/>] [linkedin]
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png" width="45px" height="40px"></img> [gmail]
 </p>
