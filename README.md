@@ -3,7 +3,7 @@
 ### I'm a beginner Java Developer and Student of GRSU
 
 
-## Skills and tools
+### Skills and tools
 
 <html>
 <head>
@@ -33,7 +33,7 @@
 </body>
 </html>
 
-### You can contact me:
+## You can contact me:
 
 [<img alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45px" height="40px"/>][linkedin]
 &nbsp;&nbsp;&nbsp;&nbsp;
