@@ -29,5 +29,4 @@
 </p>
 </body>
 </html>
-
-![Alt Text](https://giphy.com/embed/oYRij4tKBIMpsZzl5v.gif)
+![Alt Text](https://media.giphy.com/media/oYRij4tKBIMpsZzl5v/giphy.gif)
