@@ -1,6 +1,6 @@
 ## Hello, I'm Arseni Kovalev
 
-### I'm a beginner Java Developer and Student of GRSU
+### I'm a beginner Java Developer and Student of YKSUG
 
 <br/>
 
