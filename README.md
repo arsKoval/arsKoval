@@ -14,6 +14,7 @@
 * PostgreSQL
 * MySQL
 * MongoDB
+* Git
 
 
 ## You can contact me:
