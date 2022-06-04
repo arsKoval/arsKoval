@@ -7,7 +7,8 @@
 ## Skills and tools
 
 * Java
-* Spring
+* Spring Framework
+* Spring Boot
 * Hibernate
 * Gradle
 * Maven
@@ -15,6 +16,9 @@
 * MySQL
 * MongoDB
 * Git
+* JUnit
+* Docker
+* Mockito
 
 
 ## You can contact me:
